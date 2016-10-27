@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"4GL",
+		"AutoFileName",
+		"BracketHighlighter",
+		"BufferScroll",
+		"ColorPicker",
+		"Emmet",
+		"Goto-CSS-Declaration",
+		"LiveStyle",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php"
+	]
+}

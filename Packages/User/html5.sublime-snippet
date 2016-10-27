@@ -1,0 +1,33 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+	<meta name="description" content="Описание сайта">
+	<meta name="keywords" content="Ключевые слова">
+	<meta name="author" content="Кузьменко Никита Сергеевич" />
+
+	<link rel="shortcut icon" href="name" type="image/png">
+	<link rel="stylesheet" type="text/css" href="css">
+
+	<title>Document</title>
+
+	<!-- [if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>	
+	<div id="main">
+
+		
+		
+	</div>
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>html5</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

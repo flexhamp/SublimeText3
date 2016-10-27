@@ -1,0 +1,1773 @@
+{
+	"folder_history":
+	[
+		"/c/OpenServer/OpenServer/userdata/temp/FileZillaPortableTemp/fz3-14631532287340",
+		"/c/OpenServer/OpenServer/userdata/temp/FileZillaPortableTemp/fz3-14630339869490",
+		"/C/OpenServer/OpenServer/domains/edu54",
+		"/C/OpenServer/OpenServer/domains/obuvrus",
+		"/C/OpenServer/OpenServer/domains/regdriver"
+	],
+	"last_version": 3083,
+	"last_window_id": 6,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 400.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sys",
+						"sys"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"he",
+						"line-height"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"border",
+						"border-right"
+					],
+					[
+						"b",
+						"border"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"fo",
+						"foto_user.jpg	w:3168 h:4224"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"magin",
+						"margin-left"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"t",
+						"table-cell"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"mai",
+						"margin-top"
+					],
+					[
+						"get",
+						"gett/"
+					],
+					[
+						"sty",
+						"list-style-type"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"p",
+						"position"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"table-",
+						"table-column-group"
+					],
+					[
+						"ta",
+						"table-cell"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"al",
+						"text-align"
+					],
+					[
+						"cursor-o",
+						"cursor-on-menu-circle.png	w:44 h:18"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"list-s",
+						"list-style-position"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"u",
+						"line-through"
+					],
+					[
+						"r",
+						"rgba()"
+					],
+					[
+						"ani",
+						"anim-	animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"bac",
+						"background-size"
+					],
+					[
+						"re",
+						"repeat-x"
+					],
+					[
+						"tr",
+						"translate-ru.php"
+					],
+					[
+						"margin-",
+						"margin-top"
+					],
+					[
+						"borderr",
+						"border-radius"
+					],
+					[
+						"lys",
+						"list-style-type"
+					],
+					[
+						"png",
+						"menu.png	w:256 h:256"
+					],
+					[
+						"tab",
+						"table-cell"
+					],
+					[
+						"ali",
+						"vertical-align"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"ly",
+						"list-style-type"
+					],
+					[
+						"n",
+						"hidden"
+					],
+					[
+						"ut",
+						"outline"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"lis",
+						"list-style"
+					],
+					[
+						"paddi",
+						"padding-top"
+					],
+					[
+						"h",
+						"hidden"
+					],
+					[
+						"etx",
+						"text-align"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"padding",
+						"padding-right"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"bore",
+						"border"
+					],
+					[
+						"f",
+						"favicon-big.png	w:328 h:364"
+					],
+					[
+						"o",
+						"outline"
+					],
+					[
+						"sub",
+						"Sublime"
+					],
+					[
+						"il",
+						"inline-block"
+					],
+					[
+						"1",
+						"1304d1_dfa8dd52a0e14aea8bb7f3e417861a29.png	w:524 h:320"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"tec",
+						"text-decoration"
+					],
+					[
+						"flo",
+						"flowplay"
+					],
+					[
+						"ls",
+						"list-style"
+					],
+					[
+						"up",
+						"upper-roman"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"border-co",
+						"border-color"
+					],
+					[
+						"do",
+						"double"
+					],
+					[
+						"bw",
+						"border-width"
+					],
+					[
+						"wo",
+						"word-spacing"
+					],
+					[
+						"ti",
+						"text-indent"
+					],
+					[
+						"li",
+						"list	list-style-type"
+					],
+					[
+						"cel",
+						"cellspacing	Attr"
+					],
+					[
+						"bg",
+						"bg	background: #${1:000};"
+					],
+					[
+						"c",
+						"cellspacing	Attr"
+					],
+					[
+						"bgp",
+						"bgpx	background-position-x"
+					],
+					[
+						"bgs",
+						"bgsz	background-size"
+					],
+					[
+						"l",
+						"left"
+					],
+					[
+						"slab",
+						"slaboff.png	w:100 h:100"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"bi",
+						"big"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"bra",
+						"border-radius"
+					],
+					[
+						"user",
+						"user_info"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"bredpit-av",
+						"bredpit-avto2.jpg	w:1200 h:675"
+					],
+					[
+						"bredpi",
+						"bredpit-avto1.jpg	w:1200 h:675"
+					],
+					[
+						"bredpit-",
+						"bredpit-vu.jpg	w:190 h:266"
+					],
+					[
+						"bredpit",
+						"bredpit-pasport.jpg	w:704 h:1024"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"lo",
+						"inline-block"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"magi",
+						"margin-left"
+					],
+					[
+						"rg",
+						"rgba()"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"font-",
+						"font-size"
+					],
+					[
+						"A",
+						"sans-serif"
+					],
+					[
+						"s",
+						"show"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"mn",
+						"min-width"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"lin",
+						"inline-block"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"gett",
+						"gett-logo.png	w:300 h:300"
+					],
+					[
+						"pn",
+						"uber-logo.png	w:300 h:300"
+					],
+					[
+						"boder",
+						"border-radius"
+					],
+					[
+						"bdc",
+						"bdc	border-color"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 381.0,
+				"last_filter": "Snippet: ",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/apply.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/index.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/css/style.css",
+				"/C/OpenServer/OpenServer/domains/regdriver/profile.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/tt.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/ttr.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/style.css",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/header.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/template.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/action.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/index 4.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/index 3.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/description.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/index 2.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/upload.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/footer.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/component 2.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/component.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/index.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/footerht.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/old_partner.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/template 2.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/forget.php",
+				"/C/Users/it15/Desktop/4444/template.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/uber.php",
+				"/C/Bitrix/www/bitrix/templates/empty/css/style.css",
+				"/C/Bitrix/www/bitrix/components/bitrix/main.register/templates/my-register/template.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/main.register/templates/.default/template.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/main.profile/templates/my-profile/template.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/404.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/profile.php",
+				"/C/Bitrix/www/bitrix/templates/empty/js/profile.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/db.php",
+				"/C/Bitrix/www/bitrix/modules/main/tools.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/system.show_message/templates/.default/template.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/.top.menu.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/template 4.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/template 3.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/main.map/component.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/menu.sections/component.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/stub.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/class.php",
+				"/C/Users/it15/Downloads/top.menu.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/forum.comments/class.php",
+				"/C/Bitrix/www/bitrix/gadgets/bitrix/admin_perfmon/site_speed.php",
+				"/C/Bitrix/www/bitrix/modules/main/admin/user_import.php",
+				"/C/Bitrix/www/bitrix/modules/forum/install/components/bitrix/forum.comments/class.php",
+				"/C/Bitrix/www/bitrix/modules/form/classes/general/form_callformoutput.php",
+				"/C/Bitrix/www/bitrix/modules/main/interface/admin_lib.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/registration.php",
+				"/C/Users/it15/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Bitrix/www/bitrix/components/bitrix/system.auth.form/templates/.default/template.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/system.auth.confirmation/templates/.default/template.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/apply 2.php",
+				"/C/Bitrix/www/auth/profile/upload.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/upload 2.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/db 2.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/styles.css",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/.section.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/dbconn.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/yandex.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/index 5.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/gett.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/main.profile/component.php",
+				"/C/OpenServer/OpenServer/domains/regdriver.123/11-04-2016/css/style.css",
+				"/C/Bitrix/www/bitrix/components/bitrix/system.auth.forgotpasswd/component.php",
+				"/C/OpenServer/OpenServer/domains/regdriver.old/application/views/header_view.php",
+				"//10.1.12.41/www/index.php",
+				"/C/OpenServer/OpenServer/domains/edu54/index.html",
+				"/C/OpenServer/OpenServer/domains/edu54/style.css",
+				"/C/OpenServer/OpenServer/domains/edu54/kub/main.css",
+				"/C/OpenServer/OpenServer/domains/edu54/kub/index.html",
+				"/C/OpenServer/OpenServer/domains/edu54/main.css",
+				"/C/OpenServer/OpenServer/domains/edu54/test.html",
+				"/C/OpenServer/OpenServer/domains/regdriver/css/stylemedia.css",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/uber_view.php",
+				"/C/OpenServer/OpenServer/backup-regdriver-04-02-16/css/style.css",
+				"/C/OpenServer/OpenServer/backup-regdriver-04-02-16/application/views/uber_view.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/css/style-page.css",
+				"/C/OpenServer/OpenServer/domains/edu54/all.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/all.php",
+				"/C/OpenServer/OpenServer/domains/edu54/index.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/translate-en.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/translate-ru.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/translate-en 2.php",
+				"/C/OpenServer/OpenServer/domains/edu54/translate-ru.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/translate-ru 2.php",
+				"/C/OpenServer/OpenServer/domains/edu54/translate-en.php",
+				"/C/OpenServer/OpenServer/domains/edu54/comet/translate-en.php",
+				"/C/OpenServer/OpenServer/domains/edu54/comet/translate-ru.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/css/stylemedia.css",
+				"/C/OpenServer/OpenServer/domains/edu54/comet/style.css",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/add.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/application/views/header_view.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/css/style.css",
+				"/C/OpenServer/OpenServer/domains/obuvrus/application/views/login_view.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/style-page.css",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/header_view.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/application/views/main_view.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/main_view.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/stylemedia.css",
+				"/C/OpenServer/OpenServer/backup-regdriver-04-02-16/css/ugy.css",
+				"/C/OpenServer/OpenServer/backup-regdriver-04-02-16/application/views/header_view.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/main_view.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/index.html",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/header_view.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/login_view.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/css/ugy.css",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/login.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/uber.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/gett_view.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/yandex_view.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/welcome.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/index.php",
+				"/C/Users/it15/AppData/Roaming/Sublime Text 3/Packages/User/html5.sublime-snippet",
+				"/C/OpenServer/OpenServer/domains/obuvrus/Горячие клавиши Windows _ Sublime Text.html",
+				"/C/OpenServer/OpenServer/domains/regdriver/test.html",
+				"/C/OpenServer/OpenServer/domains/regdriver/old/index.html",
+				"/C/OpenServer/OpenServer/domains/regdriver/old/css/style.css",
+				"/C/OpenServer/OpenServer/domains/regdriver/old/css/DZ.css",
+				"/C/Users/it15/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/C/Users/it15/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/it15/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/it15/AppData/Roaming/Sublime Text 3/Packages/LiveStyle/LiveStyle.sublime-settings",
+				"/C/OpenServer/OpenServer/domains/regdriver/old/DZ.html",
+				"/C/OpenServer/OpenServer/domains/obuvrus/administrator.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/function/function.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/function/db.php"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"test",
+					"signup",
+					"AUTH_URL",
+					"auth",
+					"lable",
+					", ",
+					"$arResult[\"arUser\"]",
+					"id",
+					"aMenuLinks",
+					"function ShowError(",
+					"function ShowError()",
+					"function ShowError",
+					"ShowError",
+					"ShowErrorMsg",
+					"__error_msg",
+					"function ShowError",
+					"city",
+					".status",
+					"foto-user",
+					"block_kab",
+					"kab",
+					"title-doc",
+					"block",
+					"block-foto",
+					"edit",
+					"font",
+					"\";\n",
+					"display: none",
+					" #",
+					"\n	",
+					"singup-reg",
+					"aply",
+					"f2f4eb",
+					"form1",
+					".txt-fl",
+					"водителей",
+					"img",
+					"right",
+					"DaxlineProBold",
+					"font",
+					"f2f4eb",
+					"gif",
+					"%;",
+					"krilo2",
+					";\n",
+					"\n}",
+					"10px",
+					"%;\n",
+					"\"></",
+					" .",
+					"000",
+					"коментарии",
+					"вве",
+					"tt",
+					"header6",
+					"%;",
+					"table",
+					"a",
+					"\n			",
+					"000",
+					"%;\n",
+					";\">",
+					"center",
+					"big",
+					"Районный конкурс\n",
+					"Районный конкурс «Учитель года – 2008»\n",
+					"	\n",
+					"gorizontmenu",
+					"20",
+					";\n",
+					"600",
+					"border",
+					"%;}",
+					"border",
+					"об обра",
+					"ccc",
+					"verticalmenu",
+					"data",
+					"table",
+					"table-layout",
+					"url: \"apply.php\"",
+					"background-size",
+					"%;",
+					"hide",
+					"(",
+					"hide",
+					"ajax",
+					"%;",
+					"clin",
+					".container",
+					"jpg",
+					";\n",
+					"hidden",
+					"16",
+					"signin",
+					"z-in",
+					"300px",
+					"#B2AFAF",
+					">	",
+					"border",
+					"fd"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"$user_info",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 106.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 142.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1350.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sys",
+						"sys"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"he",
+						"line-height"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"border",
+						"border-right"
+					],
+					[
+						"b",
+						"border"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"fo",
+						"foto_user.jpg	w:3168 h:4224"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"magin",
+						"margin-left"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"t",
+						"table-cell"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"mai",
+						"margin-top"
+					],
+					[
+						"get",
+						"gett/"
+					],
+					[
+						"sty",
+						"list-style-type"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"p",
+						"position"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"table-",
+						"table-column-group"
+					],
+					[
+						"ta",
+						"table-cell"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"al",
+						"text-align"
+					],
+					[
+						"cursor-o",
+						"cursor-on-menu-circle.png	w:44 h:18"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"list-s",
+						"list-style-position"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"u",
+						"line-through"
+					],
+					[
+						"r",
+						"rgba()"
+					],
+					[
+						"ani",
+						"anim-	animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"bac",
+						"background-size"
+					],
+					[
+						"re",
+						"repeat-x"
+					],
+					[
+						"tr",
+						"translate-ru.php"
+					],
+					[
+						"margin-",
+						"margin-top"
+					],
+					[
+						"borderr",
+						"border-radius"
+					],
+					[
+						"lys",
+						"list-style-type"
+					],
+					[
+						"png",
+						"menu.png	w:256 h:256"
+					],
+					[
+						"tab",
+						"table-cell"
+					],
+					[
+						"ali",
+						"vertical-align"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"ly",
+						"list-style-type"
+					],
+					[
+						"n",
+						"hidden"
+					],
+					[
+						"ut",
+						"outline"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"lis",
+						"list-style"
+					],
+					[
+						"paddi",
+						"padding-top"
+					],
+					[
+						"h",
+						"hidden"
+					],
+					[
+						"etx",
+						"text-align"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"padding",
+						"padding-right"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"bore",
+						"border"
+					],
+					[
+						"f",
+						"favicon-big.png	w:328 h:364"
+					],
+					[
+						"o",
+						"outline"
+					],
+					[
+						"sub",
+						"Sublime"
+					],
+					[
+						"il",
+						"inline-block"
+					],
+					[
+						"1",
+						"1304d1_dfa8dd52a0e14aea8bb7f3e417861a29.png	w:524 h:320"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"tec",
+						"text-decoration"
+					],
+					[
+						"flo",
+						"flowplay"
+					],
+					[
+						"ls",
+						"list-style"
+					],
+					[
+						"up",
+						"upper-roman"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"border-co",
+						"border-color"
+					],
+					[
+						"do",
+						"double"
+					],
+					[
+						"bw",
+						"border-width"
+					],
+					[
+						"wo",
+						"word-spacing"
+					],
+					[
+						"ti",
+						"text-indent"
+					],
+					[
+						"li",
+						"list	list-style-type"
+					],
+					[
+						"cel",
+						"cellspacing	Attr"
+					],
+					[
+						"bg",
+						"bg	background: #${1:000};"
+					],
+					[
+						"c",
+						"cellspacing	Attr"
+					],
+					[
+						"bgp",
+						"bgpx	background-position-x"
+					],
+					[
+						"bgs",
+						"bgsz	background-size"
+					],
+					[
+						"l",
+						"left"
+					],
+					[
+						"slab",
+						"slaboff.png	w:100 h:100"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"bi",
+						"big"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"bra",
+						"border-radius"
+					],
+					[
+						"user",
+						"user_info"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"bredpit-av",
+						"bredpit-avto2.jpg	w:1200 h:675"
+					],
+					[
+						"bredpi",
+						"bredpit-avto1.jpg	w:1200 h:675"
+					],
+					[
+						"bredpit-",
+						"bredpit-vu.jpg	w:190 h:266"
+					],
+					[
+						"bredpit",
+						"bredpit-pasport.jpg	w:704 h:1024"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"lo",
+						"inline-block"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"magi",
+						"margin-left"
+					],
+					[
+						"rg",
+						"rgba()"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"font-",
+						"font-size"
+					],
+					[
+						"A",
+						"sans-serif"
+					],
+					[
+						"s",
+						"show"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"mn",
+						"min-width"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"lin",
+						"inline-block"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"gett",
+						"gett-logo.png	w:300 h:300"
+					],
+					[
+						"pn",
+						"uber-logo.png	w:300 h:300"
+					],
+					[
+						"boder",
+						"border-radius"
+					],
+					[
+						"bdc",
+						"bdc	border-color"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 381.0,
+				"last_filter": "Snippet: ",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/OpenServer/OpenServer/domains/regdriver",
+				"/C/OpenServer/OpenServer/domains/regdriver/css"
+			],
+			"file_history":
+			[
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/action.php",
+				"/C/Users/it15/AppData/Local/Temp/Rar$DR01.313/index.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/index.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/template 3.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/header.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/download.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/upload 2.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/index 2.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/template 2.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/upload.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/footer.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/template.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/profile.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/action 2.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/apply.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/css/style.css",
+				"/C/OpenServer/OpenServer/domains/regdriver/profile.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/tt.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/ttr.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/style.css",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/index 4.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/index 3.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/description.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/component 2.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/component.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/index.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/footerht.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/old_partner.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/forget.php",
+				"/C/Users/it15/Desktop/4444/template.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/uber.php",
+				"/C/Bitrix/www/bitrix/templates/empty/css/style.css",
+				"/C/Bitrix/www/bitrix/components/bitrix/main.register/templates/my-register/template.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/main.register/templates/.default/template.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/main.profile/templates/my-profile/template.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/404.php",
+				"/C/Bitrix/www/bitrix/templates/empty/js/profile.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/db.php",
+				"/C/Bitrix/www/bitrix/modules/main/tools.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/system.show_message/templates/.default/template.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/.top.menu.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/template 4.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/main.map/component.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/menu.sections/component.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/stub.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/class.php",
+				"/C/Users/it15/Downloads/top.menu.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/forum.comments/class.php",
+				"/C/Bitrix/www/bitrix/gadgets/bitrix/admin_perfmon/site_speed.php",
+				"/C/Bitrix/www/bitrix/modules/main/admin/user_import.php",
+				"/C/Bitrix/www/bitrix/modules/forum/install/components/bitrix/forum.comments/class.php",
+				"/C/Bitrix/www/bitrix/modules/form/classes/general/form_callformoutput.php",
+				"/C/Bitrix/www/bitrix/modules/main/interface/admin_lib.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/registration.php",
+				"/C/Users/it15/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Bitrix/www/bitrix/components/bitrix/system.auth.form/templates/.default/template.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/system.auth.confirmation/templates/.default/template.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/apply 2.php",
+				"/C/Bitrix/www/auth/profile/upload.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/db 2.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/styles.css",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/.section.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/dbconn.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/yandex.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/index 5.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/gett.php",
+				"/C/Bitrix/www/bitrix/components/bitrix/main.profile/component.php",
+				"/C/OpenServer/OpenServer/domains/regdriver.123/11-04-2016/css/style.css",
+				"/C/Bitrix/www/bitrix/components/bitrix/system.auth.forgotpasswd/component.php",
+				"/C/OpenServer/OpenServer/domains/regdriver.old/application/views/header_view.php",
+				"//10.1.12.41/www/index.php",
+				"/C/OpenServer/OpenServer/domains/edu54/index.html",
+				"/C/OpenServer/OpenServer/domains/edu54/style.css",
+				"/C/OpenServer/OpenServer/domains/edu54/kub/main.css",
+				"/C/OpenServer/OpenServer/domains/edu54/kub/index.html",
+				"/C/OpenServer/OpenServer/domains/edu54/main.css",
+				"/C/OpenServer/OpenServer/domains/edu54/test.html",
+				"/C/OpenServer/OpenServer/domains/regdriver/css/stylemedia.css",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/uber_view.php",
+				"/C/OpenServer/OpenServer/backup-regdriver-04-02-16/css/style.css",
+				"/C/OpenServer/OpenServer/backup-regdriver-04-02-16/application/views/uber_view.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/css/style-page.css",
+				"/C/OpenServer/OpenServer/domains/edu54/all.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/all.php",
+				"/C/OpenServer/OpenServer/domains/edu54/index.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/translate-en.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/translate-ru.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/translate-en 2.php",
+				"/C/OpenServer/OpenServer/domains/edu54/translate-ru.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/translate-ru 2.php",
+				"/C/OpenServer/OpenServer/domains/edu54/translate-en.php",
+				"/C/OpenServer/OpenServer/domains/edu54/comet/translate-en.php",
+				"/C/OpenServer/OpenServer/domains/edu54/comet/translate-ru.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/css/stylemedia.css",
+				"/C/OpenServer/OpenServer/domains/edu54/comet/style.css",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/add.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/application/views/header_view.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/css/style.css",
+				"/C/OpenServer/OpenServer/domains/obuvrus/application/views/login_view.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/style-page.css",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/header_view.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/application/views/main_view.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/main_view.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/stylemedia.css",
+				"/C/OpenServer/OpenServer/backup-regdriver-04-02-16/css/ugy.css",
+				"/C/OpenServer/OpenServer/backup-regdriver-04-02-16/application/views/header_view.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/main_view.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/index.html",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/header_view.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/login_view.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/css/ugy.css",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/login.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/uber.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/gett_view.php",
+				"/C/OpenServer/OpenServer/domains/regdriver/application/views/yandex_view.php",
+				"/C/openserver/openserver/userdata/temp/FileZillaPortableTemp/fz3temp-1/welcome.php",
+				"/C/OpenServer/OpenServer/domains/obuvrus/index.php",
+				"/C/Users/it15/AppData/Roaming/Sublime Text 3/Packages/User/html5.sublime-snippet",
+				"/C/OpenServer/OpenServer/domains/obuvrus/Горячие клавиши Windows _ Sublime Text.html",
+				"/C/OpenServer/OpenServer/domains/regdriver/test.html",
+				"/C/OpenServer/OpenServer/domains/regdriver/old/index.html",
+				"/C/OpenServer/OpenServer/domains/regdriver/old/css/style.css",
+				"/C/OpenServer/OpenServer/domains/regdriver/old/css/DZ.css",
+				"/C/Users/it15/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/C/Users/it15/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/it15/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/it15/AppData/Roaming/Sublime Text 3/Packages/LiveStyle/LiveStyle.sublime-settings",
+				"/C/OpenServer/OpenServer/domains/regdriver/old/DZ.html"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"test",
+					"signup",
+					"AUTH_URL",
+					"auth",
+					"lable",
+					", ",
+					"$arResult[\"arUser\"]",
+					"id",
+					"aMenuLinks",
+					"function ShowError(",
+					"function ShowError()",
+					"function ShowError",
+					"ShowError",
+					"ShowErrorMsg",
+					"__error_msg",
+					"function ShowError",
+					"city",
+					".status",
+					"foto-user",
+					"block_kab",
+					"kab",
+					"title-doc",
+					"block",
+					"block-foto",
+					"edit",
+					"font",
+					"\";\n",
+					"display: none",
+					" #",
+					"\n	",
+					"singup-reg",
+					"aply",
+					"f2f4eb",
+					"form1",
+					".txt-fl",
+					"водителей",
+					"img",
+					"right",
+					"DaxlineProBold",
+					"font",
+					"f2f4eb",
+					"gif",
+					"%;",
+					"krilo2",
+					";\n",
+					"\n}",
+					"10px",
+					"%;\n",
+					"\"></",
+					" .",
+					"000",
+					"коментарии",
+					"вве",
+					"tt",
+					"header6",
+					"%;",
+					"table",
+					"a",
+					"\n			",
+					"000",
+					"%;\n",
+					";\">",
+					"center",
+					"big",
+					"Районный конкурс\n",
+					"Районный конкурс «Учитель года – 2008»\n",
+					"	\n",
+					"gorizontmenu",
+					"20",
+					";\n",
+					"600",
+					"border",
+					"%;}",
+					"border",
+					"об обра",
+					"ccc",
+					"verticalmenu",
+					"data",
+					"table",
+					"table-layout",
+					"url: \"apply.php\"",
+					"background-size",
+					"%;",
+					"hide",
+					"(",
+					"hide",
+					"ajax",
+					"%;",
+					"clin",
+					".container",
+					"jpg",
+					";\n",
+					"hidden",
+					"16",
+					"signin",
+					"z-in",
+					"300px",
+					"#B2AFAF",
+					">	",
+					"border",
+					"fd"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"$user_info",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\OpenServer\\OpenServer\\domains\\regdriver"
+				},
+				{
+					"path": "C:\\OpenServer\\OpenServer\\domains\\obuvrus"
+				},
+				{
+					"path": "C:\\OpenServer\\OpenServer\\domains\\edu54"
+				},
+				{
+					"path": "c:\\OpenServer\\OpenServer\\userdata\\temp\\FileZillaPortableTemp\\fz3-14630339869490"
+				},
+				{
+					"path": "c:\\OpenServer\\OpenServer\\userdata\\temp\\FileZillaPortableTemp\\fz3-14631532287340"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.554869684499,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 106.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,860,0,402,1366",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 142.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
